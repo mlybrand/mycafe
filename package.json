@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/mlybrand/mycafe/issues"
   },
-  "homepage": "https://github.com/mlybrand/mycafe"
+  "homepage": "https://github.com/mlybrand/mycafe",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.7.0"
+  }
 }
